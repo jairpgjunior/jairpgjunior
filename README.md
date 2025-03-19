@@ -7,7 +7,7 @@ With over a **decade of experience** in software development and **technical lea
 Currently, I’m completing a **Machine Learning Specialization** to deepen my expertise in **ML, AI-driven applications, and intelligent automation**.  
 
 ## 🔥 Recent Projects’ contributions
-- [**WISE Scholarship**](https://wisescholarship.com/) – Building a **custom AI-driven learning experience** to support disadvantaged youth in their educational journey.  
+- [**WISE Scholarship**](https://wisescholarship.com/){:target="_blank"} – Building a **custom AI-driven learning experience** to support disadvantaged youth in their educational journey.  
 - [**Savvy Cooperative**](https://www.savvy.coop/) – Empowering patients to **collaborate with researchers** through an innovative engagement platform.  
 - [**DataMagic**](https://datamagic-v0.vercel.app/) – AI-powered **digital ad campaign management** and optimization platform.  
 - [**StarterPack**](https://app.islandshq.xyz/) – Accelerating **product launches** with rapid development tools.  
@@ -18,7 +18,7 @@ Currently, I’m completing a **Machine Learning Specialization** to deepen my e
 - Experimented with [**LLMs for eCommerce image generation** and **content optimization**.](https://jairpjunior.notion.site/Exploration-Study-Producing-Images-for-eCommerce-with-LLMs-12014a015180808f80d1f800a40e6eb0?pvs=4)
 - **Built an AI-powered PoC of a research tool** to enhance **medical condition analysis**, leveraging vector embeddings and retrieval-augmented generation (RAG) to provide more accurate clinical research insights.  
 - **Optimized AI-driven question generation** for **EdTech solutions**, refining prompt engineering techniques to ensure adaptive and personalized learning experiences.  
-- Leveraging **GCP AI tools**, including **Vertex AI and AutoML**, to streamline **ML model deployment**.  
+- Experiment with **GCP AI tools**, including **Vertex AI and AutoML**, to streamline **ML model deployment**.  
 
 ## 💡 What I’m learning & looking for  
 
