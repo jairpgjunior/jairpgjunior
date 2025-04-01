@@ -2,7 +2,7 @@
 
 With over a **decade of experience** in software development and **technical leadership**, I specialize in building **scalable, UX-driven solutions** that transform businesses. After **building and selling gStudio**, a Low-Code platform that streamlined operations for teams, I’ve been diving deep into **AI and Machine Learning**, actively exploring how AI can enhance **education, health, and digital experiences**.  
 
-Currently, I’m completing a **Machine Learning Specialization** to deepen my expertise in **ML, AI-driven applications, and intelligent automation**.  
+I’m currently pursuing the Google Cloud **Machine Learning Engineer Certification** to deepen my expertise in **ML, AI-driven applications, and intelligent automation**.  
 
 ## 🔥 Recent Projects’ contributions
 - [**WISE Scholarship**](https://wisescholarship.com/) – Building a **custom AI-driven learning experience** to support disadvantaged youth in their educational journey.  
