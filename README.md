@@ -1,6 +1,6 @@
 # 👋 Hey, I'm JJ!  
 
-With over a **decade of experience** in software development and **technical leadership**, I specialize in building **scalable, UX-driven solutions** that transform businesses. After **building and selling gStudio**, a Low-Code platform that streamlined operations for teams, I’ve been diving deep into **AI and Machine Learning**, actively exploring how AI can enhance **education, health, and digital experiences**.  
+With over a **decade of experience** in software development and **technical leadership**, I specialize in building **scalable, UX-driven solutions** that transform businesses. After **building and selling gStudio**, a Low-Code platform that replaced error-prone Excel-based workflows with structured, UX-driven internal tools, increasing operational efficiency. I’ve been diving deep into **AI and Machine Learning**, actively exploring how AI can enhance **education, health, and digital experiences**.  
 
 I’m currently pursuing the Google Cloud **Machine Learning Engineer Certification** to deepen my expertise in **ML, AI-driven applications, and intelligent automation**.  
 
@@ -20,7 +20,7 @@ I’m currently pursuing the Google Cloud **Machine Learning Engineer Certificat
 
 ## 💡 What I’m learning & looking for  
 
-✅ **Expanding expertise in AI/ML** → Currently completing a **Machine Learning Specialization**.  
+✅ **Expanding expertise in AI/ML** → Currently completing the Google Cloud **Machine Learning Certification**.  
 ✅ **Building AI-powered applications** → Focusing on **EdTech, HealthTech, and AI-driven automation**.  
 ✅ **Exploring production-ready AI** → Seeking hands-on experience with **vector databases, RAG, and multimodal AI**.  
 
