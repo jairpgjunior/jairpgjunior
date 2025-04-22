@@ -1,28 +1,32 @@
-# 👋 Hey, I'm JJ!  
+# 👋 Hey, I'm JJ
 
-With over a **decade of experience** in software development and **technical leadership**, I specialize in building **scalable, UX-driven solutions** that transform businesses. After **building and selling gStudio**, a Low-Code platform that replaced error-prone Excel-based workflows with structured, UX-driven internal tools, increasing operational efficiency. I’ve been diving deep into **AI and Machine Learning**, actively exploring how AI can enhance **education, health, and digital experiences**.  
+I’m a product-driven technologist with 10+ years of experience in software engineering and technical leadership. I specialize in creating scalable, high-impact digital products with a strong focus on usability, performance, and delivery speed.
 
-I’m currently pursuing the Google Cloud **Machine Learning Engineer Certification** to deepen my expertise in **ML, AI-driven applications, and intelligent automation**.  
+After founding and exiting [**gStudio**](https://www.linkedin.com/company/gstudioapp/), a low-code platform that replaced fragile Excel workflows with structured, UX-focused tools, I’ve been focused on how AI can accelerate product development and unlock new digital experiences.
 
-## 🔥 Recent Projects’ contributions
-- [**WISE Scholarship**](https://wisescholarship.com/) – Building a **custom AI-driven learning experience** to support disadvantaged youth in their educational journey.  
-- [**Savvy Cooperative**](https://www.savvy.coop/) – Empowering patients to **collaborate with researchers** through an innovative engagement platform.  
-- [**DataMagic**](https://datamagic-v0.vercel.app/) – AI-powered **digital ad campaign management** and optimization platform.  
-- [**StarterPack**](https://app.islandshq.xyz/) – Accelerating **product launches** with rapid development tools.  
-- [**Duawalla**](https://duawalla.com/) – Yoga and meditation app supporting **mindful practices**.  
-- [**DropDepot**](https://dropdepot.com/) – Marketplace for **construction materials, brands, and catalogs**.  
+Currently, I’m deepening my expertise in **AI and Machine Learning** through hands-on work and certification, with a particular interest in large language models, orchestration frameworks, and intelligent automation.
 
-## 🧠 **Recent AI & ML explorations**  
-- Experimented with [**LLMs for eCommerce image generation** and **content optimization**.](https://jairpjunior.notion.site/Exploration-Study-Producing-Images-for-eCommerce-with-LLMs-12014a015180808f80d1f800a40e6eb0?pvs=4)
-- **Built an AI-powered PoC of a research tool** to enhance **medical condition analysis**, leveraging vector embeddings and retrieval-augmented generation (RAG) to provide more accurate clinical research insights.  
-- **Optimized AI-driven question generation** for **EdTech solutions**, refining prompt engineering techniques to ensure adaptive and personalized learning experiences.  
-- Exploring **GCP AI tools**, including **Vertex AI and AutoML**, to streamline **LLMs integration and ML model deployment**.  
+## 🧩 Recent Projects
 
-## 💡 What I’m learning & looking for  
+- [**WISE Scholarship**](https://wisescholarship.com/) – AI-driven learning experience platform  
+- [**Savvy Cooperative**](https://www.savvy.coop/) – Patient–researcher engagement platform  
+- [**DataMagic**](https://datamagic-v0.vercel.app/) – Digital ad campaign management with AI optimization  
+- [**StarterPack**](https://app.islandshq.xyz/) – Rapid product development toolkit  
+- [**Duawalla**](https://duawalla.com/) – Mindfulness and wellbeing mobile app  
+- [**DropDepot**](https://dropdepot.com/) – Construction marketplace platform  
 
-✅ **Expanding expertise in AI/ML** → Currently completing the Google Cloud **Machine Learning Certification**.  
-✅ **Building AI-powered applications** → Focusing on **EdTech, HealthTech, and AI-driven automation**.  
-✅ **Exploring production-ready AI** → Seeking hands-on experience with **vector databases, RAG, and multimodal AI**.  
+## 🤖 AI & ML Work
 
-📬 **Let’s connect!** [Linkedin](https://www.linkedin.com/in/jairpjunior/)
-Feel free to reach out if you’re working on AI projects.
+- [LLMs for eCommerce image generation and content optimization](https://jairpjunior.notion.site/Exploration-Study-Producing-Images-for-eCommerce-with-LLMs-12014a015180808f80d1f800a40e6eb0?pvs=4)  
+- Built a PoC research tool using **vector embeddings** and **RAG** to enhance information retrieval  
+- Applied **prompt engineering** and question generation for personalized learning flows  
+- Ongoing exploration with **Vertex AI**, **LangChain**, **AutoML**, and **vector search integrations**  
+- [**ML Engineering Practice**](https://github.com/jairpgjunior/ML-LLM-Engineering-Practice) – Personal experiments and exercises with LLMs
+
+## 🎯 Current Focus
+
+✅ Building AI-powered applications that are production-ready  
+✅ Exploring agent-based architectures and orchestration frameworks  
+✅ Contributing to projects that prioritize speed, quality, and long-term impact
+
+📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/jairpjunior/) – I’m always open to meaningful conversations.
