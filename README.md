@@ -6,7 +6,7 @@ After founding and exiting [**gStudio**](https://www.linkedin.com/company/gstudi
 
 Currently, I’m deepening my expertise in **AI and Machine Learning** through hands-on work and certifications, with a particular interest in large language models, orchestration frameworks, and intelligent automation.
 
-## 🧩 Recent Projects
+## 🧩 Contributions to Recent Initiatives
 
 - [**WISE Scholarship**](https://wisescholarship.com/) – AI-driven learning experience platform.
 - [**Savvy Cooperative**](https://www.savvy.coop/) – Patient–researcher engagement platform.
