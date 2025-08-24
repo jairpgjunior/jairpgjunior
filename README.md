@@ -1,6 +1,6 @@
 # 👋 Hey, I'm JJ  
 
-**GenAI Tech Lead** at Capgemini *CoE (Center of Excellence) in Portugal*, with 10+ years in software engineering, product leadership, and digital transformation.  
+**GenAI Tech Lead** at Capgemini, with 10+ years in software engineering, product leadership, and digital transformation.  
 
 Previously founded and exited [**gStudio**](https://www.linkedin.com/company/gstudioapp/), a low-code platform that modernized fragile business process workflows into scalable, UX-driven tools.  
 
