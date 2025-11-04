@@ -7,7 +7,7 @@ Previously founded and exited [**gStudio**](https://www.linkedin.com/company/gst
 ## 🔥 Current Focus in AI Engineering  
 - Python, TypeScript, LangGraph.
 - AI Agents, RAG, Prompt Engineering.
-- Vertex AI, Gemini, Open AI.
+- Vertex AI, Gemini, Open AI API.
 - Building production-ready GenAI applications and agent-based systems.  
 
 Passionate about turning cutting-edge technology into **real-world impact**.  
