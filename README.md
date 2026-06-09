@@ -1,15 +1,17 @@
 # 👋 Hey, I'm JJ  
 
-**GenAI Tech Lead** at Capgemini, with 10+ years in software engineering, product leadership, and digital transformation.  
+**Applied AI Engineer & Tech Lead** with 10+ years of experience in software engineering, product development, and digital transformation.
 
-Previously founded and exited [**gStudio**](https://www.linkedin.com/company/gstudioapp/), a low-code platform that modernized fragile business process workflows into scalable, UX-driven tools.  
+Previously founded and exited **gStudio**, a low-code platform that transformed manual and spreadsheet-driven workflows into scalable, user-centric applications.
 
-## 🔥 Current Focus in AI Engineering  
-- Python, TypeScript, LangGraph.
-- AI Agents, RAG, Prompt Engineering.
-- Vertex AI, Gemini, Open AI API.
-- Building production-ready GenAI applications and agent-based systems.  
+## Current Focus
 
-Passionate about turning cutting-edge technology into **real-world impact**.  
+- Agentic AI, Multi-Agent Systems, and Context Engineering
+- RAG, Knowledge Retrieval, and AI Evaluations
+- Python, TypeScript, LangGraph, and AI Orchestration
+- OpenAI, Gemini, Claude and Enterprise AI Platforms
+- Building secure, production-ready AI applications and developer tools
+
+Passionate about bridging business strategy, software engineering, and AI to create systems that amplify human capabilities and deliver measurable impact.
 
 📫 Let’s connect on [LinkedIn](https://www.linkedin.com/in/jairpjunior/).  
